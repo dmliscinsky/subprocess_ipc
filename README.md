@@ -1,6 +1,6 @@
 # subprocess_ipc
 
-A small library to simplify running and interacting with other programs, such as shells or SSH clients, programmatically in a C program.
+A small library to simplify running and interacting with other programs, such as shells, etc., programmatically in a C program.
 
 
 
